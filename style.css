@@ -10,7 +10,7 @@ body{
     background-repeat: round;
 }
 
-section{
+.section{
     height: 100vh;
     width: 100%;
     display: flex;
@@ -114,7 +114,7 @@ section{
         background-repeat: repeat-x;
     }
 
-    section{
+    .section{
         display: flex;
         flex-direction: row;
         justify-content: center;
